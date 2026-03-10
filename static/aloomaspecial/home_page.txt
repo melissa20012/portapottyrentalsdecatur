@@ -1,0 +1,50 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left:0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Do you handle emergency deliveries?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we assist with urgent requests when inventory allows.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you charge extra for same-day delivery? 
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Same-day delivery is available based on unit availability and location. In most cases, an additional fee may apply, but we’ll always confirm the cost upfront before dispatching.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How many porta-potties do I need for my site?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Usage rates, foot traffic, and shift schedules determine the recommended quantity.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can the towable porta-potties handle rough terrain?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. They’re mounted on trailers with heavy-duty off-road tires and built with rugged polyethylene construction, so they can move across farms, construction sites, or event grounds with ease.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do your restroom trailers stay cool during summer when it gets hot? 
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Our restroom trailers are climate-controlled with both heating and air conditioning, so your guests stay comfortable whether it’s summer heat or winter chill.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I extend my rental period if my project or event runs longer than expected?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes! You can extend your rental by reaching out to our customer service team.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
